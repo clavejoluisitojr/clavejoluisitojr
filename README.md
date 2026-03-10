@@ -49,11 +49,13 @@ I've executed **6,000+ integration test cases**, resolved **200+ production tick
 
 > 🔨 Currently building my automation portfolio — 30-day structured plan in progress.
 
-| Project | Description | Stack | Status |
-| [playwright-automation-suite](https://github.com/clavejoluisitojr/playwright-automation-suite) | E2E test suite with Page Object Model, cross-browser matrix, and CI integration | Playwright · TypeScript · GitHub Actions | 🔨 In Progress |
-| [api-testing-postman](https://github.com/clavejoluisitojr/api-testing-postman) | Postman collection with 30+ assertions + Newman running in CI | Postman · Newman · GitHub Actions | 🔨 In Progress |
-| [ci-cd-pipelines](https://github.com/clavejoluisitojr/ci-cd-pipelines) | CI/CD pipeline templates including IIS auto-deploy via self-hosted runner | GitHub Actions · PowerShell · IIS | 🔨 In Progress |
-| [price-tracker-bot](https://github.com/clavejoluisitojr/price-tracker-bot) | Scheduled Playwright scraper that tracks price changes and alerts via GitHub Actions | Playwright · Node.js · GitHub Actions | 🔨 In Progress |
+|  Project | Description | Stack | Status |
+|---|---|---|---|
+| [playwright-automation-suite](https://github.com/luisitoclavejo/playwright-automation-suite) | E2E test suite with Page Object Model, cross-browser matrix, and CI integration | Playwright · TypeScript · GitHub Actions | 🔨 In Progress |
+| [api-testing-postman](https://github.com/luisitoclavejo/api-testing-postman) | Postman collection with 30+ assertions + Newman running in CI | Postman · Newman · GitHub Actions | 🔨 In Progress |
+| [ci-cd-pipelines](https://github.com/luisitoclavejo/ci-cd-pipelines) | CI/CD pipeline templates including IIS auto-deploy via self-hosted runner | GitHub Actions · PowerShell · IIS | 🔨 In Progress |
+| [price-tracker-bot](https://github.com/luisitoclavejo/price-tracker-bot) | Scheduled Playwright scraper that tracks price changes and alerts via GitHub Actions | Playwright · Node.js · GitHub Actions | 🔨 In Progress |
+
 
 ---
 
