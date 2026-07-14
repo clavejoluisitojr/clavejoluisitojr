@@ -56,9 +56,7 @@ I'm currently seeking full-time or part-time roles in **IT support, helpdesk, or
 
 | Project | Description | Stack |
 |---|---|---|
-| [City Labels](https://github.com/luisitoclavejo) | Production brochure-style SPA, built end to end (design, development, deployment) | Next.js 14 · TypeScript · Tailwind CSS |
-
-> Update the link above with your actual City Labels repo URL.
+| [City Labels](https://github.com/clavejoluisitojr/city-labels-llc) | Production brochure-style SPA, built end to end (design, development, deployment) | Next.js 14 · TypeScript · Tailwind CSS |
 
 ---
 
